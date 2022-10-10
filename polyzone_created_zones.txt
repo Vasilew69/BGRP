@@ -1,0 +1,23 @@
+--Name: policiq2 | 2022-10-08T16:51:35Z
+BoxZone:Create(vector3(1551.0, 842.64, 77.66), 1, 1, {
+  name="policiq2",
+  heading=331,
+  --debugPoly=true
+})
+
+--Name: orujeina | 2022-10-08T17:41:04Z
+BoxZone:Create(vector3(1550.99, 842.64, 77.66), 1, 1, {
+  name="orujeina",
+  heading=330,
+  --debugPoly=true,
+  minZ=75.66,
+  maxZ=79.66
+})
+
+--Name: PaletoBayArmor | 2022-10-08T20:46:00Z
+BoxZone:Create(vector3(-426.43, 5996.3, 31.72), 1, 0.5, {
+  name="PaletoBayArmor",
+  heading=315,
+  --debugPoly=true
+})
+
